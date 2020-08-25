@@ -9,10 +9,7 @@ public static void main(String [] args){
        Product product = new Product( "Keyboard");
        System.out.println(product.getName());
 
-    // second time after adding the new branch
-    // please update the change
-    // i am adding the change for third time
-    // This is a real change
+
     }
 
 }
